@@ -22,7 +22,7 @@ steps:
   inputs:
     buildType: 'specific'
     project: 'cbcdc5b4-1749-4f71-9593-607c0adeaff7'
-    definition: '8'
+    definition: '7'
     specificBuildWithTriggering: true
     buildVersionToDownload: 'latest'
     targetPath: '$(Pipeline.Workspace)'
