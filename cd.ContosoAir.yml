@@ -44,5 +44,5 @@ steps:
     ConnectionType: 'AzureRM'
     azureSubscription: 'Tailspin-Demo-Service-Connection'
     appType: 'webApp'
-    WebAppName: '"$(web_prefix)-$(web_site)-$(web_'
+    WebAppName: '"$(web_prefix)-$(web_site)-$(web_environment)'
     packageForLinux: '$(Pipeline.Workspace)/**/*.zip'
