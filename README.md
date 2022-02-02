@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/wug10/TailspinJD03/_apis/build/status/georgewu2021.ContosoAir?branchName=master)](https://dev.azure.com/wug10/TailspinJD03/_build/latest?definitionId=7&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
